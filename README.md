@@ -39,10 +39,33 @@ Pivot table and bar chart showing the average values of the medical students' bo
 
 Pivot table and bar chart showing the average values of the medical students' height and weight; and there's no significant difference observed in these values between the males and females.
 
-![](                                    |                                          ![](HeightWeight_chart.png)
+![](Bloodtypes_table.png)                                      |                                          ![](Bloodtypes_DonotChart.png)
 :-------------------------------------------------------------:|:--------------------------------------------------------------------------:
 
+This analysis shows the different blood types found amongst the students and from our table and visuals, the blood type 0 is predominant with a percentage of 32.76% followed by B, AB and A respectively.
 
+![](Diabetes_table.png)                                         |                                          ![](Diabetes_piechart.png)
+:--------------------------------------------------------------:|:--------------------------------------------------------------------------:
+
+This analysis shows the total number of students with diabetes represented as 9% of the population and students who do not have the disease as 81% and an unspecified number of students as 10%.
+
+![](Smoking_table.png)                                           |                                          ![](Smoking_Piechart.png)
+:---------------------------------------------------------------:|:--------------------------------------------------------------------------:
+
+In this analysis, a good number of medical students were identified as non-smokers and quite a few identified as smokers and the rest were unspecified. 
+
+## Conclusion and Recommendation
+
+- The “Unspecified” categories should be investigated and properly categorized to comprehensively understand their status and enable informed decisions.
+- Smoking Rehabilitation Programs should be set up within the medical student community. The program should include counselling, addiction treatment, and support groups.
+- Health Education and Awareness programs on Diabetes should also be introduced in the medical community, emphasising healthier food choices, regular check-ups and exercises.
+- Generally, periodic medical check-ups and follow-up assessments should be carried out to track changes and monitor health progression, which will improve overall health outcomes within the medical student community.
+
+Our Health should always be our priority. Eat healthy and exercise regularly. As said by Jim Rohn, "Take care of your body. It's the only place you have to live." 💪
+
+![](H_W.png)
+
+# THANK YOU ⚕️
 
 
 
